@@ -1,2 +1,2 @@
 # english-transformer
-An autoregressive, decoder-only transformer.
+An autoregressive, decoder-only transformer from the ground up.
