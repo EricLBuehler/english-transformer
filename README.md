@@ -1,5 +1,5 @@
 # English Transformer
-An transformer from the ground up.
+An GPT-like autoregressive decoder-only transformer from the ground up.
 It predicts the next word in a sentence.
 
 ## References:
